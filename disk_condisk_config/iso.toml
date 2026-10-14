@@ -1,0 +1,4 @@
+[customizations.iso]
+volume_id = "HYBRYDA_OS"
+application_id = "HybrydaOS"
+publisher = "denoszek"
